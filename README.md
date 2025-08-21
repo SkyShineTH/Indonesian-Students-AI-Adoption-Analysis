@@ -62,7 +62,7 @@ The dataset captures comprehensive insights into AI usage among Indonesian highe
 
 - **Analyst**: [SkyShineTH](https://skyshineth.github.io/)
 - **Email**: oat606606oat@gmail.com
-- **LinkedIn**: [ฟ้าใส ยุตะวัน](linkedin.com/in/ฟ้าใส-ยุตะวัน-970704379)
+- **LinkedIn**: [ฟ้าใส ยุตะวัน](https://linkedin.com/in/ฟ้าใส-ยุตะวัน-970704379)
 - **Project Repository**: [Indonesian Students AI Adoption Analysis](https://github.com/SkyShineTH/Indonesian-Students-AI-Adoption-Analysis.git)
 
 ##  License
