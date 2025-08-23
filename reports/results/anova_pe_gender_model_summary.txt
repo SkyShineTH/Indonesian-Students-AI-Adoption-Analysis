@@ -1,0 +1,25 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               PE_Score   R-squared:                       0.004
+Model:                            OLS   Adj. R-squared:                  0.002
+Method:                 Least Squares   F-statistic:                     2.357
+Date:                Sat, 23 Aug 2025   Prob (F-statistic):              0.125
+Time:                        22:16:05   Log-Likelihood:                -484.19
+No. Observations:                 602   AIC:                             972.4
+Df Residuals:                     600   BIC:                             981.2
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+Intercept                   3.0334      0.026    116.918      0.000       2.982       3.084
+C(Gender_Label)[T.Male]     0.0759      0.049      1.535      0.125      -0.021       0.173
+==============================================================================
+Omnibus:                       61.535   Durbin-Watson:                   1.927
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              104.292
+Skew:                          -0.667   Prob(JB):                     2.26e-23
+Kurtosis:                       4.542   Cond. No.                         2.45
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

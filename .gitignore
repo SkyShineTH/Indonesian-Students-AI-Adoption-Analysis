@@ -21,4 +21,26 @@ rad.json
 #Test results file
 TestResults.xml
 
+# Virtual environment
 venv/
+.env/
+
+# Compiled Python bytecode
+__pycache__/
+*.pyc
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-project
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Build artifacts
+dist/
+build/
