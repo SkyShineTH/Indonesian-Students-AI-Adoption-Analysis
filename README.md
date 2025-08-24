@@ -41,18 +41,23 @@ The dataset captures comprehensive insights into AI usage among Indonesian highe
 │   ├── processed/              # Cleaned and processed data
 │   └── external/               # Additional reference data
 ├── notebooks/
+│   ├── 00_test_.ipynb
 │   ├── 01_data_exploration.ipynb
 │   ├── 02_preprocessing.ipynb
 │   ├── 03_demographic_analysis.ipynb
 │   ├── 04_clustering_analysis.ipynb
 │   └── 05_statistical_modeling.ipynb
 ├── src/
-│   ├── models/                 # ML models and clustering
+│   ├── analysis/
+│   ├── visualization/                 
 │   └── utils/                  # Helper functions
 ├── dashboard/
+│   ├── pages/
 │   ├── app.py                  # Main dashboard application
 ├── reports/
 │   ├── figures/                # Generated plots and charts
+│   ├── results/ 
+│   ├── tables/                
 ├── tests/                      # Unit tests
 ├── requirements.txt
 └── README.md
