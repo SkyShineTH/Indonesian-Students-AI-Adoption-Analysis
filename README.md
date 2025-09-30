@@ -63,13 +63,6 @@ The dataset captures comprehensive insights into AI usage among Indonesian highe
 └── README.md
 ```
 
-##  Contact & Support
-
-- **Analyst**: [SkyShineTH](https://skyshineth.github.io/)
-- **Email**: oat606606oat@gmail.com
-- **LinkedIn**: [ฟ้าใส ยุตะวัน](https://linkedin.com/in/ฟ้าใส-ยุตะวัน-970704379)
-- **Project Repository**: [Indonesian Students AI Adoption Analysis](https://github.com/SkyShineTH/Indonesian-Students-AI-Adoption-Analysis.git)
-
 ##  License
 
 This analysis project is licensed under MIT License. The original dataset is licensed under CC BY 4.0.
